@@ -1,0 +1,11 @@
+// IntelliJ API Decompiler stub source generated from a class file
+// Implementation of methods is not available
+
+package Personagem.Raças
+
+public interface Raça {
+    public open fun escolherRaça(p: Personagem.CriarPersonagem): kotlin.Unit { /* compiled code */ }
+
+    public open fun bonusRaca(p: Personagem.Personagem): kotlin.Unit { /* compiled code */ }
+}
+
